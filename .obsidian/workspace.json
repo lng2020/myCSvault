@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2a6cf15ba90410ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a2f8d4acd005c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库/SQL语言/INSERT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbf71ec3ce844318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库/SQL语言/VIEW.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eae1470556265a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库/关系数据库/关系数据库基础/关系范式.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "bca8edc7689c3d44"
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "ccf7412eb584e234",
         "type": "tabs",
         "children": [
           {
-            "id": "433743f7b3962074",
+            "id": "bc86c20d4d15f447",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/关系数据库/关系数据库基础/关系范式.md",
-                "mode": "preview",
+                "file": "软件工程/质量管理/测试面向对象的软件.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "bca8edc7689c3d44"
+            }
           }
         ]
       }
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/关系数据库/关系数据库基础/关系范式.md",
+                "file": "软件工程/质量管理/测试面向对象的软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/关系数据库/关系数据库基础/关系范式.md",
+                "file": "软件工程/质量管理/测试面向对象的软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/关系数据库/关系数据库基础/关系范式.md"
+                "file": "软件工程/质量管理/测试面向对象的软件.md"
               }
             }
           }
@@ -191,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eae1470556265a5f",
+  "active": "bc86c20d4d15f447",
   "lastOpenFiles": [
-    "数据库/SQL语言/TRIGGER.md",
-    "数据库/SQL语言/PROCEDURE.md",
-    "数据库/SQL语言/CURSER.md",
-    "数据库/SQL语言/SELECT.md",
-    "数据库/SQL语言/SQL语言.md",
-    "数据库/SQL语言/T-SQL.md",
-    "数据库/SQL语言/VIEW.md",
-    "数据库/SQL语言/INSERT.md",
-    "数据库/SQL语言/INDEX.md",
-    "数据库/SQL语言/CREATE.md"
+    "软件工程/质量管理/软件质量保证.md",
+    "软件工程/质量管理/质量.md",
+    "软件工程/质量管理/测试面向对象的软件.md",
+    "软件工程/质量管理/测试传统的应用软件.md",
+    "软件工程/质量管理/测试策略.md",
+    "软件工程/软件.md",
+    "软件工程/软件过程/过程模型.md",
+    "数据库/关系数据库/关系数据库基础/关系范式.md",
+    "数据库/SQL语言/UPDATE.md",
+    "数据库/关系数据库/关系数据库基础/关系代数.md"
   ]
 }
